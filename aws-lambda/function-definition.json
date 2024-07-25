@@ -2,5 +2,5 @@
   "functionName": "helloworld",
   "runtime": "python3.10",
   "handler": "handler.hello",
-  "role": "<YOUR_AWS_ARN>"
+  "role": "arn:aws:iam::759984737373:role/tkouhsari-eks-lambda"
 }
